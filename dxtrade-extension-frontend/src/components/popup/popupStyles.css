@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    border: 3px solid #202236;
+}
+
+.popup {
+    background-color: #434667;
+    width: 250px;
+}
+
+input {
+    padding: 5px !important;
+}
+
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

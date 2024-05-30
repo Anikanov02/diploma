@@ -1,0 +1,32 @@
+.toolbar-container {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  top: 20px;
+  left: 0;
+  width: 740px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #c5c5c5;
+  border: 2px solid #8d8d8d;
+  z-index: 10;
+}
+
+.toolbar-container label {
+  color: black;
+  margin-left: 5px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.toolbar-container input {
+  padding: 5px
+}
+
+.toolbar-container img {
+  padding: 5px
+}
+
+.toolbar-container .riskLabel {
+  width: 40px;
+}

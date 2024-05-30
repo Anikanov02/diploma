@@ -1,0 +1,9 @@
+.time-interval-select-container {
+    display: flex;
+    align-items: center;
+}
+
+.time-interval-select-menu {
+    background-color: #393b60 !important;
+    color: white !important;
+}

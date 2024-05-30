@@ -1,0 +1,7 @@
+extension:
+  baseUrls:
+    FTMO: https://dxtrade.ftmo.com/dxsca-web/
+    GOOEY: https://trade.gooeytrade.com/dxsca-web/
+    DERIVXDEMO: https://dx-demo.deriv.com/dxsca-web/
+    DERIVX: https://dx.deriv.com/dxsca-web/
+    BBULL: https://trade.blackbull.com/dxsca-web/

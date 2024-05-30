@@ -1,0 +1,11 @@
+#select_position_col {
+    width: 50px;
+}
+
+#break_even_col {
+    width: 60px;
+}
+
+#close_position_col {
+    max-width: 330px;
+}

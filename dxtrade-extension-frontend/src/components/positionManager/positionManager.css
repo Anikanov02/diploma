@@ -1,0 +1,9 @@
+.customManager {
+    display: flex;
+    flex-direction: row;
+    /* overflow-x: hidden;   */
+}
+
+.customManager input {
+    padding: 5px
+}
